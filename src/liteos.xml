@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Preset isAutoSaved="true" xmlns="urn:schemas-nliteos-com:pn.v1">
+<Preset xmlns="urn:schemas-nliteos-com:pn.v1">
 	<Date>02/04/2023 13:32:00</Date>
 	<AppInfo>
 		<Version>2.3.9.9039</Version>
 		<Licensed>No</Licensed>
 		<Protections>Yes</Protections>
-		<Host>Windows 8.1 (U3) x64 - 6.3.9600.16384 (en-US)</Host>
+		<Host>Windows 10 Pro (20H2) x64 - 10.0.19042.631 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 10 EnterpriseSN (1809) x64 - 10.0.17763.1 (en-US)</Version>
@@ -201,12 +201,7 @@
 		<Feature name="WCF-Services45">false</Feature>
 	</Features>
 	<Packages></Packages>
-	<Commands>
-		<PostUpdates>
-			<!--<Command>cmd /c echo Example from [MOUNTDIR]\Windows &amp; pause</Command>-->
-			<!--<Command>dism /image:[MOUNTDIR] /get-intl</Command>-->
-		</PostUpdates>
-	</Commands>
+	<Commands></Commands>
 	<Drivers showHidden="false"></Drivers>
 	<Unattended mode="1">
 		<OEMSetupComplete>false</OEMSetupComplete>
