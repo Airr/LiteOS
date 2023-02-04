@@ -546,11 +546,11 @@
 			<Task>imageFormatEsd</Task>
 			<Task>imageOptionsCreateIso</Task>
 		</ImageTasks>
-		<AutoIsoFile>C:\Users\thenstop\Downloads\LiteOS.iso</AutoIsoFile>
+		<AutoIsoFile>C:\LiteOS.iso</AutoIsoFile>
 		<AutoIsoLabel>LiteOS</AutoIsoLabel>
 		<AutoSplitSize>4000</AutoSplitSize>
 		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
-		<OptimizeAppX>false</OptimizeAppX>
+		<OptimizeAppX>true</OptimizeAppX>
 		<ReuseDriverCache>false</ReuseDriverCache>
 	</ApplyOptions>
 	<Execution>
